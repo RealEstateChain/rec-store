@@ -1,0 +1,29 @@
+{
+  "name": "rec-store",
+  "version": "1.0.0",
+  "description": "A smart contract powered store for buying real estate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealEstateChain/rec-store.git"
+  },
+  "keywords": [
+    "ethereum",
+    "real",
+    "estate",
+    "smart",
+    "contracts"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RealEstateChain/rec-store/issues"
+  },
+  "homepage": "https://github.com/RealEstateChain/rec-store#readme",
+  "dependencies": {
+    "truffle": "^4.1.7"
+  }
+}
