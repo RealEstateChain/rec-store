@@ -32,7 +32,7 @@ contract TestAdoption {
     address expected = this;
 
     // Store adopters in memory rather than contract's storage
-    address[16] memory adopters = adoption.getAdopters();
+    address[12] memory adopters = adoption.getAdopters();
 
     Assert.equal(adopters[8], expected, "Owner of pet ID 8 should be recorded.");
   }
