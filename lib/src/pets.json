@@ -1,130 +1,98 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "House 1",
+    "picture": "images/house1.jpeg",
     "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "locality": "Lisco",
+    "location": "Alabama"
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "House 2",
+    "picture": "images/house1.jpeg",
     "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
+    "locality": "Tooleville",
+    "location": "West Virginia"
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "House 3",
+    "picture": "images/house2.jpeg",
     "age": 2,
-    "breed": "French Bulldog",
-    "location": "Freeburn, Idaho"
+    "locality": "Freeburn",
+    "location": "Idaho"
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
+    "name": "House 4",
+    "picture": "images/house3.jpeg",
     "age": 2,
-    "breed": "Boxer",
-    "location": "Camas, Pennsylvania"
+    "locality": "Camas",
+    "location": "Pennsylvania"
   },
   {
     "id": 4,
-    "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "House 5",
+    "picture": "images/house2.jpeg",
     "age": 2,
-    "breed": "French Bulldog",
-    "location": "Gerber, South Dakota"
+    "locality": "Gerber",
+    "location": "South Dakota"
   },
   {
     "id": 5,
-    "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "House 6",
+    "picture": "images/house2.jpeg",
     "age": 3,
-    "breed": "French Bulldog",
-    "location": "Innsbrook, Illinois"
+    "locality": "Innsbrook",
+    "location": "Illinois"
   },
   {
     "id": 6,
-    "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
+    "name": "House 7",
+    "picture": "images/house4.jpeg",
     "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
+    "locality": "Soudan",
+    "location": "Louisiana"
   },
   {
     "id": 7,
-    "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
+    "name": "House 8",
+    "picture": "images/house4.jpeg",
     "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
+    "locality": "Jacksonwald",
+    "location": "Palau"
   },
   {
     "id": 8,
-    "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "House 9",
+    "picture": "images/house2.jpeg",
     "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
+    "locality": "Honolulu",
+    "location": "Hawaii"
   },
   {
     "id": 9,
-    "name": "Fran",
-    "picture": "images/boxer.jpeg",
+    "name": "House 10",
+    "picture": "images/house3.jpeg",
     "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
+    "locality": "Mathen",
+    "location": "Utah"
   },
   {
     "id": 10,
-    "name": "Leonor",
-    "picture": "images/boxer.jpeg",
+    "name": "House 11",
+    "picture": "images/house3.jpeg",
     "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
+    "locality": "Tyhee",
+    "location": "Indiana"
   },
   {
     "id": 11,
-    "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "House 12",
+    "picture": "images/house1.jpeg",
     "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
-  },
-  {
-    "id": 12,
-    "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
-  },
-  {
-    "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
-  },
-  {
-    "id": 14,
-    "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
-  },
-  {
-    "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "locality": "Windsor",
+    "location": "Montana"
   }
 ]
