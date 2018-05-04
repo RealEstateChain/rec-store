@@ -17,24 +17,24 @@ contract TestAdoption {
   }
 
   // Testing retrieval of a single pet's owner
-  function testGetAdopterAddressByPetId() public {
+  function testGetAdopterAddressByhomeId() public {
     // Expected owner is this contract
     address expected = this;
 
-    address adopter = adoption.adopters(8);
+    address buyer = adoption.buyers(8);
 
-    Assert.equal(adopter, expected, "Owner of pet ID 8 should be recorded.");
+    Assert.equal(buyer, expected, "Owner of pet ID 8 should be recorded.");
   }
 
     // Testing retrieval of all pet owners
-  function testGetAdopterAddressByPetIdInArray() public {
+  function testGetAdopterAddressByhomeIdInArray() public {
     // Expected owner is this contract
     address expected = this;
 
-    // Store adopters in memory rather than contract's storage
-    address[12] memory adopters = adoption.getAdopters();
+    // Store buyers in memory rather than contract's storage
+    address[12] memory buyers = adoption.getAdopters();
 
-    Assert.equal(adopters[8], expected, "Owner of pet ID 8 should be recorded.");
+    Assert.equal(buyers[8], expected, "Owner of pet ID 8 should be recorded.");
   }
 
 }
