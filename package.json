@@ -2,8 +2,9 @@
   "name": "rec-store",
   "version": "1.0.0",
   "description": "A smart contract powered store for buying real estate",
-  "main": "index.js",
+  "main": "truffle.js",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +24,9 @@
     "url": "https://github.com/RealEstateChain/rec-store/issues"
   },
   "homepage": "https://github.com/RealEstateChain/rec-store#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
   "dependencies": {
     "truffle": "^4.1.7"
   }
